@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # arogyaDesk
 
 arogyaDesk is an AI-powered telemedicine kiosk designed to provide comprehensive healthcare services across India. With advanced AI capabilities, these kiosks analyze patient data, offer real-time diagnoses, recommend treatment plans, and continuously monitor patient health. The system also enables virtual consultations with doctors when required, ensuring accessible and proactive healthcare management.
