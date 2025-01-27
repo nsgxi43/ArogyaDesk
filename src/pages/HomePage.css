@@ -1,0 +1,36 @@
+.home-container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  h2 {
+    color: #333;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 1.2rem;
+  }
+  
+  .features {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+  }
+  
+  .feature-card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    width: 200px;
+  }
+  
+  .feature-card h3 {
+    color: #4CAF50;
+  }
+  
+  .feature-card p {
+    color: #777;
+  }
+  

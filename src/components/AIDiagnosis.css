@@ -1,0 +1,60 @@
+.ai-diagnosis-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #4CAF50;
+    margin-bottom: 20px;
+  }
+  
+  .label {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
+  input {
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 1em;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .diagnosis-result {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #e7f5e5;
+    border: 1px solid #4CAF50;
+    border-radius: 5px;
+    width: 80%;
+  }
+  
+  .diagnosis-result h3 {
+    color: #4CAF50;
+  }
+  
+  .diagnosis-result p {
+    color: #333;
+  }
+  

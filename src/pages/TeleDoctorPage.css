@@ -1,0 +1,23 @@
+/* TeleDoctorPage.css */
+.tele-doctor-page-container {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .tele-doctor-page-container h1 {
+    color: #007bff;
+    font-size: 2rem;
+  }
+  
+  .tele-doctor-page-container p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  .tele-doctor-page-container .tele-doctor-pool {
+    margin-top: 20px;
+  }
+  
